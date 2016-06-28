@@ -2,9 +2,8 @@
 Language: C++
 
 **************************************************************************************************************************************
-Instructions for problem are hard to read since some of the text would copy and paste over.  See the website link in the description for a better description
+Instructions for this problem are hard to read since some of the special characters and given values would not copy and paste over.  See the website link in the description for a better description
 **************************************************************************************************************************************
-
 
 A Discrete Mathematics professor has a class of  students. Frustrated with their lack of discipline, he decides to cancel class if fewer than  students are present when class starts.
 
